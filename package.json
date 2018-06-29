@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot",
+  "version": "0.0.1",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.0.0",
+    "firebase": "latest",
+    "express": "latest",
+    "request": "latest"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "license": "MIT"
+}
