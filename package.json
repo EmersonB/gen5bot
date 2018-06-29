@@ -2,7 +2,7 @@
   "name": "discord-bot",
   "version": "0.0.1",
   "engines": {
-    "node": "5.9.1"
+    "node": "7.4"
   },
   "main": "app.js",
   "scripts": {
